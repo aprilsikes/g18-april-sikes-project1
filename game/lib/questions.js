@@ -49,7 +49,7 @@ exports.quotes = function() {
     t = quotes[m];
     quotes[m] = quotes[i];
     quotes[i] = t;
-  } return quotes;
-};
+  } return quotes[i].Quote;
+
 
 };
