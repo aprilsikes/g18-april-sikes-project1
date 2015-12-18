@@ -3,7 +3,8 @@
 }
 
 body {
-  width: 100%
+  background-color: #783400;
+  background-image: url("http://www.transparenttextures.com/patterns/brick-wall-dark.png");
 }
 
 article {
