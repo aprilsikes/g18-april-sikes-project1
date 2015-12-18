@@ -17,7 +17,7 @@ var quotes = [
 
   {Quote : "'Sup with the whack Playstation, 'sup? -Joey"},
 
-  {Quote : "Hey, just so you know: it's <span><em>not</em></span> that common, it <span><em>doesn't</em></span> "'happen to every guy,'" and it <span><em>is</em></span> a big deal! -Rachel"},
+  {Quote : "Hey, just so you know: it's <span><em>not</em></span> that common, it <span><em>doesn't</em></span> happen to every guy, and it <span><em>is</em></span> a big deal! -Rachel"},
 
   {Quote : "All right, you will notice that I am fully dressed. I, in turn, have noticed that you are not. So in the words of A. A. Milne, "'Get out of my chair, dillhole!'" -Chandler"},
 
