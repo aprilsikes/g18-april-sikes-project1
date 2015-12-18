@@ -6,3 +6,7 @@ body {
   background-color: #783400;
   background-image: url("http://www.transparenttextures.com/patterns/brick-wall-dark.png");
 }
+
+img {
+  border-radius: 7px;
+}
