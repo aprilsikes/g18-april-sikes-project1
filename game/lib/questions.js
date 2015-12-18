@@ -1,23 +1,23 @@
-var questions = [
-  {Question : "Chandler was trapped in an ATM vestibule with what supermodel?", Answer : "Jill Goodacre"},
+var quotes = [
+  {Quote : "Chandler was trapped in an ATM vestibule with what supermodel?"},
 
-  {Question : "How did Joey originally get cast in his soap opera?", Answer : "He slept with the casting director"},
+  {Quote : "How did Joey originally get cast in his soap opera?"},
 
-  {Question : "When Rachel and Phoebe go to get tattoos, what tattoo does Rachel choose?", Answer : "A heart"},
+  {Quote : "When Rachel and Phoebe go to get tattoos, what tattoo does Rachel choose?"},
 
-  {Question : "Who does Rachel dress up as to satisfy a Ross fantasy?", Answer : "Princess Leia"},
+  {Quote : "Who does Rachel dress up as to satisfy a Ross fantasy?"},
 
-  {Question : "What did Janice's first husband sell?", Answer : "Mattresses"},
+  {Quote : "What did Janice's first husband sell?"},
 
-  {Question : "Where were Chandler and Monica when they decided to start a family?", Answer : "In a hospital"},
+  {Quote : "Where were Chandler and Monica when they decided to start a family?"},
 
-  {Question : "What holiday does Chandler despise?", Answer : "Thanksgiving"},
+  {Quote : "What holiday does Chandler despise?"},
 
-  {Question : "In Las Vegas, what freak-show worthy discovery does Joey make?", Answer : "His identical hand twin"},
+  {Quote : "In Las Vegas, what freak-show worthy discovery does Joey make?"},
 
 ];
 
-exports.askQuestion = function() {
-  var idx = Math.floor(Math.random() * questions.length);
-  return questions[idx].Question;
+exports.quotes = function() {
+  var idx = Math.floor(Math.random() * quotes.length);
+  return quotes[idx].Quote;
 };
