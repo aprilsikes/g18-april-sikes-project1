@@ -1,19 +1,41 @@
 var quotes = [
-  {Quote : "Chandler was trapped in an ATM vestibule with what supermodel?"},
+  {Quote : "We were on a break!! -Ross"},
 
-  {Quote : "How did Joey originally get cast in his soap opera?"},
+  {Quote : "How you doin'? -Joey"},
 
-  {Quote : "When Rachel and Phoebe go to get tattoos, what tattoo does Rachel choose?"},
+  {Quote : "Otherwise, it's just a moo point. It's like a cow's opinion. It doesn't matter. It's moo. -Joey"},
 
-  {Quote : "Who does Rachel dress up as to satisfy a Ross fantasy?"},
+  {Quote : "I grew up in a house with Monica, okay. If you didn't eat fast, you didn't eat. -Ross"},
 
-  {Quote : "What did Janice's first husband sell?"},
+  {Quote : "I'm not so good with the advice...Can I interest you in a sarcastic comment? -Chandler"},
 
-  {Quote : "Where were Chandler and Monica when they decided to start a family?"},
+  {Quote : "It is a love based on giving and receiving as well as having and sharing. And the love that they give and have is shared and received. And through this having and giving and sharing and receiving, we too can share and love and have...and receive. -Joey"},
 
-  {Quote : "What holiday does Chandler despise?"},
+  {Quote : "I'm Rachel. I love Ross. I hate Ross. I love Ross. I hate Ross. -Monica"},
 
-  {Quote : "In Las Vegas, what freak-show worthy discovery does Joey make?"},
+  {Quote : "I'm Joey. I'm disgusting. I make low-budget adult films. -Joey"},
+
+  {Quote : "'Sup with the whack Playstation, 'sup? -Joey"},
+
+  {Quote : "Hey, just so you know: it's <span><em>not</em></span> that common, it <span><em>doesn't</em></span> "'happen to every guy,'" and it <span><em>is</em></span> a big deal! -Rachel"},
+
+  {Quote : "All right, you will notice that I am fully dressed. I, in turn, have noticed that you are not. So in the words of A. A. Milne, "'Get out of my chair, dillhole!'" -Chandler"},
+
+  {Quote : "They don't know that we know they know we know! -Phoebe"},
+
+  {Quote : "What if the husband person is the wrong guy, and you are the right guy. I mean you don't get chances like this all the time, if you don't meet her now, you're gonna be kicking yourself when your 80, which is hard to do, and that's how you break a hip. -Phoebe"},
+
+  {Quote : "Married a lesbian, left a man at the altar, married a gay ice dancer, threw a girl's wooden leg in the fire, live in a box! -Monica"},
+
+  {Quote : "Gum would be perfection. -Chandler"},
+
+  {Quote : "Isn't that just kick-you-in-the-crotch, spit-on-your-neck, fantastic! -Rachel"},
+
+  {Quote : "I may play the fool at times but I'm more than just a pretty blonde girl with an ass that won't quit. -Phoebe"},
+
+  {Quote : "Va fa napoli! -Joey"},
+
+  {Quote : "I got Rachel shoving your underwear in my face and asking when she can come see me star in Ugly Woman! -Joey"}
 
 ];
 
