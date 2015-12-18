@@ -40,7 +40,16 @@ var quotes = [
 ];
 
 exports.quotes = function() {
-  var idx = Math.floor(Math.random() * quotes.length);
-  return quotes[idx].Quote;
+// function() {
+  // var idx = Math.floor(Math.random() * quotes.length);
+  // return quotes[idx].Quote;
+  var m = quotes.length, t, i;
+  while (m) {
+    i = Math.floor(Math.random() * m--);
+    t = quotes[m];
+    quotes[m] = quotes[i];
+    quotes[i] = t;
+  } return quotes;
+};
 
 };
