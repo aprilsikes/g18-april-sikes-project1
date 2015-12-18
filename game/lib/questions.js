@@ -17,13 +17,13 @@ var quotes = [
 
   {Quote : "'Sup with the whack Playstation, 'sup? -Joey"},
 
-  {Quote : "Hey, just so you know: it's <span><em>not</em></span> that common, it <span><em>doesn't</em></span> happen to every guy, and it <span><em>is</em></span> a big deal! -Rachel"},
+  {Quote : "Hey, just so you know: it's not that common, it doesn't happen to every guy, and it is a big deal! -Rachel"},
 
   {Quote : "All right, you will notice that I am fully dressed. I, in turn, have noticed that you are not. So in the words of A. A. Milne, Get out of my chair, dillhole! -Chandler"},
 
   {Quote : "They don't know that we know they know we know! -Phoebe"},
 
-  {Quote : "What if the husband person is the wrong guy, and you are the right guy. I mean you don't get chances like this all the time, if you don't meet her now, you're gonna be kicking yourself when your 80, which is hard to do, and that's how you break a hip. -Phoebe"},
+  {Quote : "What if the husband person is the wrong guy, and you are the right guy. I mean you don't get chances like this all the time, if you don't meet her now, you're gonna be kicking yourself when you're 80, which is hard to do, and that's how you break a hip. -Phoebe"},
 
   {Quote : "Married a lesbian, left a man at the altar, married a gay ice dancer, threw a girl's wooden leg in the fire, live in a box! -Monica"},
 
@@ -42,4 +42,5 @@ var quotes = [
 exports.quotes = function() {
   var idx = Math.floor(Math.random() * quotes.length);
   return quotes[idx].Quote;
+
 };
